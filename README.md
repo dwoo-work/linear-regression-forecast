@@ -1,18 +1,14 @@
 # Linear Regression Forecast (LRF)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat eu diam laoreet luctus. Sed pretium turpis ut mi dictum, sit amet varius ligula sodales. Suspendisse ultrices convallis consectetur. Aliquam consectetur rutrum nunc vitae rutrum. Cras convallis, purus eget sagittis faucibus, nulla turpis facilisis leo, non consectetur elit diam a quam. Donec vulputate lorem eu magna dapibus posuere. Integer consectetur odio orci, quis iaculis orci convallis et. Aenean viverra lacus vitae augue lacinia porta. Maecenas vestibulum libero augue, sit amet laoreet enim auctor a. Vestibulum sit amet purus massa. Morbi orci justo, bibendum eu bibendum quis, vestibulum vel elit. Quisque enim nisi, porta eu placerat in, convallis nec ante. Aliquam pharetra mauris sit amet nisl fringilla suscipit. Vivamus eget nisi urna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent vitae iaculis quam.
+This will demonstrate to you how to perform Linear Regression Forecast (LRF) on sales data, to predict future sales values based on the pastn using Python.
 
-Suspendisse auctor gravida ante at tristique. Vestibulum lectus quam, blandit placerat magna et, efficitur aliquam lorem. Nullam efficitur orci a neque scelerisque, eu pretium est dignissim. Pellentesque malesuada mattis mauris, a tempus sem dignissim vitae. Pellentesque blandit imperdiet mi et pellentesque. Aenean interdum vehicula tortor nec auctor. Integer non facilisis enim. Cras in fringilla tortor. Morbi vel sem dapibus, posuere diam non, cursus enim. Proin tempus lorem erat, id lacinia justo rutrum a.
+There are different kinds of forecasting that can be performed:
 
-Maecenas ligula sem, congue non volutpat ut, ornare vel dolor. Aenean porta viverra rutrum. Proin ac mauris quis tortor dignissim ultricies nec et ante. Praesent et nulla eu odio cursus mattis at eu turpis. Curabitur dictum mauris nec justo posuere sodales. Etiam commodo, odio in rutrum pellentesque, massa justo semper mi, in tincidunt orci lacus sit amet diam. Ut massa tortor, euismod ut lorem eget, malesuada mollis lorem. Nunc fermentum purus in pellentesque bibendum.
+- Supply Forecasting: This allows you to analyse your suppliers, to determine the amount of products that can be ordered and delivered in a specific timeframe.
+- Demand Forecasting: This allows you to analyse your customers, to determine the demands in a specific timeframe. This helps to prepare a suitable volume of stock, such that it can fill up the customer orders, and yet not wasting extra time and effort.
+- Price Forecasting: This allows you to analyse the price of your products, to help observe how a change of price can affect customer demand.
 
-## Product Segmentation
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat eu diam laoreet luctus. Sed pretium turpis ut mi dictum, sit amet varius ligula sodales. Suspendisse ultrices convallis consectetur. Aliquam consectetur rutrum nunc vitae rutrum. Cras convallis, purus eget sagittis faucibus, nulla turpis facilisis leo, non consectetur elit diam a quam. Donec vulputate lorem eu magna dapibus posuere. Integer consectetur odio orci, quis iaculis orci convallis et. Aenean viverra lacus vitae augue lacinia porta. Maecenas vestibulum libero augue, sit amet laoreet enim auctor a. Vestibulum sit amet purus massa. Morbi orci justo, bibendum eu bibendum quis, vestibulum vel elit. Quisque enim nisi, porta eu placerat in, convallis nec ante. Aliquam pharetra mauris sit amet nisl fringilla suscipit. Vivamus eget nisi urna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent vitae iaculis quam.
-
-Suspendisse auctor gravida ante at tristique. Vestibulum lectus quam, blandit placerat magna et, efficitur aliquam lorem. Nullam efficitur orci a neque scelerisque, eu pretium est dignissim. Pellentesque malesuada mattis mauris, a tempus sem dignissim vitae. Pellentesque blandit imperdiet mi et pellentesque. Aenean interdum vehicula tortor nec auctor. Integer non facilisis enim. Cras in fringilla tortor. Morbi vel sem dapibus, posuere diam non, cursus enim. Proin tempus lorem erat, id lacinia justo rutrum a.
-
-Maecenas ligula sem, congue non volutpat ut, ornare vel dolor. Aenean porta viverra rutrum. Proin ac mauris quis tortor dignissim ultricies nec et ante. Praesent et nulla eu odio cursus mattis at eu turpis. Curabitur dictum mauris nec justo posuere sodales. Etiam commodo, odio in rutrum pellentesque, massa justo semper mi, in tincidunt orci lacus sit amet diam. Ut massa tortor, euismod ut lorem eget, malesuada mollis lorem. Nunc fermentum purus in pellentesque bibendum.
+By using LRF, we are performing a quantitative forecast, which makes use of the existing data available.
 
 ## Installation
 
